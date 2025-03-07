@@ -1,3 +1,3 @@
 # React + PokéApi Project
 
-I'm just test my first front-end setup.
+I'm just testing my first front-end setup.
